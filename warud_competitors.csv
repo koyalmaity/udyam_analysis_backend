@@ -1,0 +1,139 @@
+business_name,business_group,basic_category,taxonomy_primary,confidence,lat,lon
+Warud Orange City railway station,transport,train_station,train_station,0.8052399158477783,21.458721,78.276164
+Sai Mandir,religious,hindu_place_of_worship,hindu_place_of_worship,0.5618466138839722,21.466389,78.281386
+Late Shri Marutrao Kherade Sabhagruh and Lawn,services,event_or_party_service,party_and_event_planning,0.6826409101486206,21.46604201,78.27564631
+House Of Cafe,food_and_grocery,cafe,cafe,0.8119120001792908,21.46474,78.27242
+"श्री संत शंकर महाराज कृषी महाविद्यालय,पिंपळखूटा",education,place_of_learning,school,0.7357314229011536,21.46474,78.27242
+Honey_Bunny cafe warud,food_and_grocery,restaurant,restaurant,0.7267652153968811,21.465492906208,78.27197
+Rituraj Mobile Shop,services,b2b_office_and_professional_service,b2b_advertising_and_marketing_service,0.5471863746643066,21.4662,78.2714
+Genericart Medicine Store,healthcare,pharmacy_and_drug_store,pharmacy,0.77,21.4662383,78.2711268
+"Tata Motors Cars Showroom - Jaika Motors, Warud",automotive,automotive_service,automotive_service,0.85,21.464375,78.272377
+"Saishri Kirana And  General,WARUD",food_and_grocery,food_and_beverage_store,grocery_store,0.5410627722740173,21.4588,78.27579
+Warud Orange City Railway Station,transport,train_station,train_station,0.6568187475204468,21.45825,78.26832
+Rural Hospital,healthcare,hospital,hospital,0.7114322185516357,21.466666666667,78.266666666667
+TRENDS,retail,fashion_and_apparel_store,clothing_store,0.85,21.4712098,78.2647004
+Genericart Medicine Store,healthcare,pharmacy_and_drug_store,pharmacy,0.77,21.47120994,78.26470055
+Shradha Auto Services - Hero MotoCorp,retail,shopping,shopping,0.9655,21.47121,78.2647
+Bajaj Finance Branch,finance,bank_or_credit_union,credit_union,0.85,21.4712098,78.2647004
+Jain Cold Drinks and Sweets,retail,casual_eatery,dessert_shop,0.5683817863464355,21.47243629,78.26856598
+Nature's Pride,services,real_estate_service,real_estate_service,0.5279561281204224,21.47169,78.2674
+Takarkhede Automotive E-Bike Pandhurna Chwok Warud 444906 ,automotive,auto_dealer,auto_dealer,0.6229379773139954,21.47203,78.26848
+Vidarbha Hardware,retail,hardware_home_and_garden_store,hardware_store,0.92999666929245,21.47139001,78.26879007
+ICICI Bank,finance,bank_or_credit_union,bank,0.8,21.470216,78.267967
+Shriram Finance Limited,finance,bank_or_credit_union,credit_union,0.85,21.469811,78.268769
+HDFC Bank ATM,finance,bank_or_credit_union,bank_or_credit_union,0.9985607139825821,21.4685111,78.26776111
+HDFC Securities - Warud,food_and_grocery,food_and_beverage_store,ethical_grocery_store,0.9655,21.468505,78.2677601
+Manappuram Finance,services,event_or_party_service,party_and_event_planning,0.900137978196144,21.46847667116248,78.26776229776074
+Shrikant Jewellers,retail,fashion_and_apparel_store,jewelry_store,0.9615358710289001,21.46724719,78.26855852
+Vijay Theatre,entertainment_sports,movie_theater,movie_theater,0.6553381681442261,21.46851843,78.26988875
+Bank of Maharashtra,finance,bank_or_credit_union,bank_or_credit_union,0.85,21.468936,78.269899
+AU Small Finance Bank,finance,bank_or_credit_union,bank,0.77,21.4691625,78.2689531
+Sayali Metal,retail,shopping,shopping,0.5174524784088135,21.46938264,78.2688953
+BRAND Mens Collection Warud,retail,fashion_and_apparel_store,mens_clothing_store,0.6525319814682007,21.469455939294,78.269082068873
+Srad Deshmukh Hospital,healthcare,hospital,hospital,0.5885863304138184,21.4706987,78.26959943
+Pavan Khasbage Fitness and Supplement,entertainment_sports,sports_and_recreation,sports_and_recreation,0.5829804539680481,21.46818748,78.2714269
+Bajaj Finserv Gold Loan,retail,fashion_and_apparel_store,jewelry_store,0.85,21.467522,78.271736
+Indian Overseas Bank,finance,bank_or_credit_union,bank_or_credit_union,0.9655,21.468031,78.273251
+Indian Overseas Bank - ATM,finance,bank_or_credit_union,bank,0.77,21.468027,78.273251
+Motilal Oswal Financial Services Limited,services,financial_service,stock_and_bond_broker,0.85,21.468886,78.273018
+"School of Scholars, Warud",education,place_of_learning,school,0.8975745439529419,21.468086074103,78.274369239807
+Cholamandalam Investment and Finance Company Limited,finance,bank_or_credit_union,credit_union,0.85,21.4699829,78.2731442
+"Californiya Cricket Academy, Warud",entertainment_sports,sport_league,,0.6968411803245544,21.4696,78.2729
+Paragon Footwear,retail,fashion_and_apparel_store,shoe_store,0.77,21.4727663,78.2730401
+Hotel Nature Food,hospitality,hotel,hotel,0.6498056054115295,21.473045783202,78.273232653737
+"Ketan Hyundai, Warud",automotive,auto_dealer,auto_dealer,0.8786553740501404,21.472239558819,78.275985756783
+Cafe He She N Tea,food_and_grocery,cafe,cafe,0.669073224067688,21.47408908,78.2747057
+Malode Bichayat and Caterers,services,event_or_party_service,caterer,0.5962237119674683,21.47377287,78.27300959
+Shriram City Union Finance Limited,finance,bank_or_credit_union,credit_union,0.85,21.4747009277344,78.2730026245117
+Cake Zone,retail,casual_eatery,dessert_shop,0.6057376265525818,21.47521474,78.27280456
+Shelke Orthopaedic and Gynec Hospital,healthcare,hospital,hospital,0.6410679221153259,21.47445814,78.27206707
+Wasule Hospital & Khushi Maternity Home,healthcare,hospital,hospital,0.6613075733184814,21.47446094,78.27204899
+Shri Vishwayan Ayurveda Panchkarma Clinic,healthcare,behavioral_or_mental_health_clinic,family_counseling,0.5739662647247314,21.47469,78.27207
+Kings Gym,entertainment_sports,gym,gym,0.8110739588737488,21.47433202,78.27062248
+Shriram Finance Limited,finance,bank_or_credit_union,credit_union,0.85,21.4731645,78.2707632
+Hindustan Petroleum,transport,gas_station,gas_station,0.954,21.472741,78.269711
+Shree Sant Gajanan Market,food_and_grocery,food_and_beverage_store,grocery_store,0.5246352553367615,21.47162847,78.26956062
+Warud,hospitality,lodging,lodging,0.5933910608291626,21.47229015886211,78.26915016396049
+Bank of Baroda,finance,bank_or_credit_union,bank,0.8,21.472948,78.268994
+Central Bank of India,finance,bank_or_credit_union,bank,0.560373067855835,21.47357209,78.26933656
+Shri Gurudev krushi kendra Rajura bazar,agriculture,b2b_service,agriculture,0.5582342147827148,21.47356,78.26929
+Patanjali Arogya Kendra,food_and_grocery,food_and_beverage_store,indian_grocery_store,0.85,21.4737124,78.2696931
+RamKrishna Children's Hospital Warud,healthcare,hospital,hospital,0.7436623573303223,21.474995174718,78.269991883127
+HDFC ERGO Insurance Agent: Umesh Champalal Chhangani,services,financial_service,financial_service,0.77,21.474751,78.269401
+Davaindia Generic Pharmacy,healthcare,pharmacy_and_drug_store,pharmacy,0.85,21.4748318,78.269475
+"Shivam Sports, warud",retail,sporting_goods_store,sporting_goods_store,0.57093745470047,21.47490744,78.26948047
+New Ambika Collection,retail,shopping,shopping,0.6133890748023987,21.474553296721,78.26957
+Belsare Hospital,healthcare,hospital,hospital,0.54916912317276,21.47445438,78.26941779
+Dr. Rahul Khanna Hospital Surgical and Laser Center,healthcare,hospital,hospital,0.9202908277511597,21.47461624,78.2693914
+Glam Studios Warud,services,personal_or_beauty_service,beauty_salon,0.8273320198059082,21.47449653,78.26890326
+Lapcare,retail,electronics_store,computer_store,0.85,21.4758821,78.2688319
+GMart Warud,retail,,,0.7142571806907654,21.4760456,78.2700024
+Chakradhar Restaurant,food_and_grocery,restaurant,restaurant,0.6462433338165283,21.47665016,78.27031984
+Chetan Cafe,food_and_grocery,cafe,cafe,0.5241050124168396,21.47636249,78.26966693
+Trends,retail,fashion_and_apparel_store,clothing_store,0.5533120036125183,21.47712366,78.2688499
+dr.manohar ande hospital,healthcare,hospital,hospital,0.5676687359809875,21.47799766,78.26902862
+Kashikar hospital,healthcare,hospital,hospital,0.5259742140769958,21.4788468,78.26923602
+Aim Academy Warud,services,tutoring_service,tutoring_service,0.5454448461532593,21.47761784,78.26984068
+Exide Care - V.K. Trading Co,automotive,,,0.9655,21.4762801,78.271684
+Exide Care - Amar Auto Electric Works,retail,electronics_store,electronics_store,0.77,21.4762796,78.2716835
+Trimurti Lodge,hospitality,lodging,lodge,0.7319250106811523,21.47661959,78.27130669
+Jahanaganj Sri Ram Rastiya Inter College,education,college_university,college_university,0.5493798851966858,21.4764956,78.2713905
+Exide Care - Anand Motors,automotive,manufacturer,industrial_equipment_manufacturer,0.9655,21.4760001,78.271001
+HDFC Bank ATM,finance,atm,atm,0.85,21.4754568,78.2705953
+Saraswati Coaching Classes  - सरस्वती कोचिंग क्लासेस,education,educational_service,educational_service,0.8504273891448975,21.475254758815,78.273128718138
+Dr.Kohale Homeopathy,healthcare,diagnostics_imaging_or_lab_service,doctors_office,0.5864728689193726,21.476338018228,78.272480964661
+Hotel Sagar and Wine Bar,hospitality,hotel,hotel,0.7191707491874695,21.47679544,78.2730728
+New Gayatri Book Depo,retail,shopping,shopping,0.554545521736145,21.47692189,78.27340428
+Axis Bank ATM,finance,atm,atm,1.0,21.476972,78.273421
+Shree Yashwant Hospital and Netralaya Warud,healthcare,hospital,hospital,0.8703158497810364,21.475647299926,78.27481
+Asha Hospital,healthcare,hospital,hospital,0.9761292934417725,21.48150138,78.26717547
+Maruti Suzuki Arena,automotive,auto_dealer,auto_dealer,0.9880101084709167,21.48232496,78.26742998
+Prasanna Bar and Restaurant,food_and_grocery,restaurant,restaurant,0.5335469245910645,21.47772875,78.26760968
+Samsung Experience Store - Prabhagaurav Electrical & Electronices - Warud,retail,electronics_store,mobile_phone_store,0.77,21.477014,78.268425
+Genericart Medicine Store,healthcare,pharmacy_and_drug_store,pharmacy,0.77,21.4769691,78.2681624
+Reliable Investment -Warud,services,financial_service,financial_service,0.6080130338668823,21.4767,78.26784
+Gurukrupa Automobiles warud,automotive,automotive_service,automotive_repair,0.8072330355644226,21.4767,78.26784
+Pushpanjali Systems,services,home_service,home_security,0.5223219990730286,21.4767,78.26784
+Shakuntalai coaching classes,education,education,education,0.6429750919342041,21.4767,78.26784
+Kanhyya Gems And Jewellers,retail,fashion_and_apparel_store,jewelry_store,0.5569158792495728,21.4767,78.26784
+Late Shivramji Hiwase College of Education Warud,education,college_university,college_university,0.7792863249778748,21.4766998,78.2678375
+"HOTEL Vrundavan ,warud",hospitality,hotel,hotel,0.5647386312484741,21.4766998,78.2678375
+Hotel Rimzim,hospitality,hotel,hotel,0.7010816931724548,21.4767,78.26784
+"Sai Internet Cafe, Warud",food_and_grocery,cafe,cafe,0.5696771144866943,21.4767,78.26784
+Veera mobilee,retail,electronics_store,mobile_phone_store,0.7418953776359558,21.47678,78.26783
+"जय गुरूदेव कृषी सेवा केंद्र ,वरुड",agriculture,b2b_service,agriculture,0.5953801274299622,21.47678,78.26783
+Kheteshwar bikaner Sweet & bakery,food_and_grocery,casual_eatery,bakery,0.607950747013092,21.47678,78.26783
+Shrihari Clinic,healthcare,hospital,hospital,0.9701716899871826,21.47678,78.26783
+"Prabha Gaurav Agencies, Warud",automotive,technical_service,bike_repair_maintenance,0.7148219347000122,21.47678,78.26783
+Aditya TYRES MRF T&S warud,automotive,automotive_service,tire_dealer_and_repair,0.5292407274246216,21.47678,78.26783
+PORTO De RAHMS,food_and_grocery,restaurant,restaurant,0.5421200394630432,21.47678,78.26783
+Dr Dahane's Diet and weightloss clinic,services,wellness_service,weight_loss_center,0.6423219442367554,21.47678,78.26783
+New Orange City Convent,education,place_of_learning,school,0.9407673478126526,21.47678,78.26783
+Taro Pumps - Sanjay Electricals,agriculture,,,0.6039398908615112,21.47678,78.26783
+Axis Bank,finance,bank_or_credit_union,bank,0.77,21.476770401001,78.26782989502
+Tata Motors Cars,automotive,auto_dealer,auto_dealer,0.7190621495246887,21.47678,78.26783
+C K AGRI CLINIc,agriculture,agricultural_service,agricultural_service,0.6296502947807312,21.47678,78.26783
+Kids & Needs,retail,toys_and_games_store,toy_store,0.8414313793182373,21.47678,78.26783
+grampanchayat dhanodi,government_community,community_and_government,community_and_government,0.5878348350524902,21.47696632052336,78.26781792851153
+Shree Krishna Refreshment,food_and_grocery,restaurant,indian_restaurant,0.5983160734176636,21.47715167,78.26738153
+SBI Life Insurance Co,finance,financial_service,life_insurance,0.85,21.478961,78.261411
+SMFG India Credit Co. Limited - Warud (Branch),finance,,,0.85,21.477891,78.258091
+Gavhankund,religious,hindu_place_of_worship,hindu_place_of_worship,0.8497413992881775,21.4681667,78.2565986
+Shri Krupa Family Restaurant,food_and_grocery,restaurant,restaurant,0.5412673950195312,21.47425,78.26095
+Mauli Tyres Warud,retail,shopping,shopping,0.5217466354370117,21.47425,78.26095
+KhteshwerBikaner Sweet Mart Warud,hospitality,hotel,hotel,0.7956235408782959,21.4747287,78.2609063
+Bus Depot Warud,services,public_transit_facility_or_service,bus_station,0.6142752766609192,21.47437684,78.26138076
+Shri Kheteswar Bikaner Sweet Mart,hospitality,hotel,hotel,0.5568525791168213,21.474,78.26079
+Swaraj Tractor - M/S Prasanna Tractors,agriculture,agricultural_service,agricultural_service,0.7060521245002747,21.4703,78.2596
+Tawakkal enterprise,retail,hardware_home_and_garden_store,furniture_store,0.5985535383224487,21.46753,78.26008
+Gajanan Maharaj Temple,religious,hindu_place_of_worship,hindu_place_of_worship,0.6571074724197388,21.46755833,78.26003473
+M K M English School,education,place_of_learning,school,0.5707473158836365,21.46558344,78.25616568
+Pandit Transport,transport,travel_and_transportation,travel_and_transportation,0.5587330460548401,21.46664869,78.25604009
+Bank of Maharashtra,finance,bank_or_credit_union,bank_or_credit_union,0.9589322239160538,21.46,78.26
+IndianOil,transport,gas_station,gas_station,0.524101197719574,21.45113034,78.30012358
+P V Sable Jagrut Vidyalay,education,education,education,0.5489808320999146,21.44543099,78.30829741
+Raja Auto Works,automotive,automotive_service,automotive_repair,0.5302683711051941,21.4459,78.30553
+"Abhishek Motors ,warud",automotive,automotive_service,automotive_repair,0.5301661491394043,21.44536,78.30921
+"Pundalik Maharaj Industrial Training Institute Roshankhda, WARUD",education,college_university,college_university,0.6686218976974487,21.455581700000003,78.2910662
+Nature Food Family Restaurant,food_and_grocery,restaurant,restaurant,0.6909351944923401,21.480226703376,78.300590515137
+Dhanodi Grampanchayat,government_community,government_office,government_office,0.7210582494735718,21.48300051,78.2994537

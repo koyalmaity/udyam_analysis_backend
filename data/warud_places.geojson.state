@@ -1,0 +1,14 @@
+{
+  "last_release": "2026-08-19.0",
+  "last_run": "2026-09-13T13:33:30.079179+00:00",
+  "theme": "places",
+  "type": "place",
+  "bbox": {
+    "xmin": 78.25,
+    "ymin": 21.44,
+    "xmax": 78.31,
+    "ymax": 21.5
+  },
+  "backend": "geojson",
+  "output": "C:\\Users\\HP\\OneDrive\\Udyam360\\data\\warud_places.geojson"
+}
