@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Query
+from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
@@ -114,54 +114,41 @@ def get_competitors(
 
 @app.get("/density")
 def get_density(
-    lat: float,
-    lon: float,
-    category: str,
-    radius_km: float = Query(default=1.0, gt=0, le=50)
+    pincode: str,
+    category: str
 ):
-    radius_m = radius_km * 1000
+    query = text("""
+        SELECT
+            pincode,
+            basic_category,
+            category_businesses,
+            total_businesses,
+            density_score,
+            competition_level,
+            latitude,
+            longitude
+        FROM competitor_density
+        WHERE pincode = :pincode
+          AND basic_category = :category
+        LIMIT 1
+    """)
 
-    with engine.connect() as connection:
-        result = connection.execute(
-            text("""
-                SELECT COUNT(*) AS competitor_count
-                FROM competitors
-                WHERE business_group = :category
-                  AND ST_DWithin(
-                      geom::geography,
-                      ST_SetSRID(
-                          ST_MakePoint(:lon, :lat),
-                          4326
-                      )::geography,
-                      :radius_m
-                  );
-            """),
+    with engine.connect() as conn:
+        result = conn.execute(
+            query,
             {
-                "lat": lat,
-                "lon": lon,
-                "category": category,
-                "radius_m": radius_m
+                "pincode": pincode.strip(),
+                "category": category.strip().lower()
             }
+        ).mappings().first()
+
+    if not result:
+        raise HTTPException(
+            status_code=404,
+            detail="No density data found for this pincode and category"
         )
 
-        competitor_count = result.scalar()
-
-    # Simple density classification
-    if competitor_count == 0:
-        density_level = "No Competition"
-    elif competitor_count <= 5:
-        density_level = "Low"
-    elif competitor_count <= 15:
-        density_level = "Medium"
-    else:
-        density_level = "High"
-
-    return {
-        "category": category,
-        "radius_km": radius_km,
-        "competitor_count": competitor_count,
-        "density_level": density_level
-    }
+    return dict(result)
 
 @app.get("/analysis")
 def get_analysis(
